@@ -1,6 +1,6 @@
-<h1>📱 Telco Promo System – Visitor Design Pattern</h1>
+<h1>Telco Promo System – Visitor Design Pattern</h1>
 
-<h2>📖 Project Overview</h2>
+<h2>Project Overview</h2>
 <p>
 Imagine you are searching for a new mobile plan for your smartphone. 
 Three major telecommunication providers are offering different promotional deals:
@@ -16,7 +16,7 @@ performed on them (data allowance display and unlimited call/text offers).
 
 <hr>
 
-<h2>📦 Available Telco Plans</h2>
+<h2>Available Telco Plans</h2>
 
 <h3>🔵 Smart</h3>
 <p><strong>Data Allowance:</strong> 15 GB</p>
