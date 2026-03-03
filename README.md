@@ -39,4 +39,4 @@ Calls and texts to other networks are charged extra.
 <p><strong>Price:</strong> ₱400 per month</p>
 <p><strong>Unlimited Calls & Texts:</strong> Included (all networks nationwide)</p>
 
-<hr>
+
